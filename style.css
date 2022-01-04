@@ -1,0 +1,31 @@
+body {
+    background-color: brown;
+   /* margin-top: 150px;*/
+}
+h2 {
+    margin-top: 50px;
+    text-align: center;
+}
+form {
+    margin: 0 auto;
+    width: 200px;
+    padding: 50px;
+    border: 1px solid cornsilk;
+    border-radius: 1em;
+}
+
+div {
+    margin-top: 20px;
+}
+
+a[href] {
+    color: cornsilk;
+}
+
+p > label{
+    color: lawngreen;
+}
+
+label:hover{
+    color: burlywood;
+}
